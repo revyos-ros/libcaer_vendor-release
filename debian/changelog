@@ -1,0 +1,8 @@
+ros-humble-libcaer-vendor (1.1.0-2bookworm) bookworm; urgency=high
+
+  * initial commit
+  * Contributors: Bernd Pfrommer
+
+ -- Bernd Pfrommer <bernd.pfrommer@gmail.com>  Fri, 17 May 2024 16:00:00 -0000
+
+
