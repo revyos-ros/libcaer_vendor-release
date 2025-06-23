@@ -1,3 +1,26 @@
+## libcaer_vendor (jazzy) - 2.0.0-1
+
+The packages in the `libcaer_vendor` repository were released into the `jazzy` distro by running `/root/venv/bin/bloom-release -r jazzy libcaer_vendor --override-release-repository-push-url git@github.com:revyos-ros/libcaer_vendor-release.git --edit` on `Mon, 23 Jun 2025 05:12:00 -0000`
+
+The `libcaer_vendor` package was released.
+
+Version of package(s) in repository `libcaer_vendor`:
+
+- upstream repository: https://github.com/ros-event-camera/libcaer_vendor.git
+- release repository: https://github.com/revyos-ros/libcaer_vendor-release.git
+- rosdistro version: `2.0.0-1`
+- old version: `1.3.0-3`
+- new version: `2.0.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## libcaer_vendor (jazzy) - 1.3.0-3
 
 The packages in the `libcaer_vendor` repository were released into the `jazzy` distro by running `/root/venv/bin/bloom-release -r jazzy libcaer_vendor --override-release-repository-push-url git@github.com:revyos-ros/libcaer_vendor-release.git` on `Mon, 23 Jun 2025 05:06:41 -0000`
